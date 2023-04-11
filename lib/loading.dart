@@ -1,0 +1,4 @@
+enum Loading{
+  processing,
+  success
+}
